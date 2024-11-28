@@ -1,5 +1,5 @@
 import requests
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as ts
 import streamlit as st
 
 # URL con filtros para reducir el tamaño de la respuesta
